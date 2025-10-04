@@ -54,8 +54,8 @@ Maven/Gradle (for Java dependencies)
 Scene Builder (optional, for designing JavaFX UI)
 
 Clone the Repository:
-git clone https://github.com/yourusername/pharmacy-management-system.git
-cd pharmacy-management-system
+git clone https://github.com/yashbisht13/PharmacyManagementSystem.git
+cd PharmacyManagementSystem
 
 Backend Setup (Spring Boot)
 
